@@ -182,3 +182,14 @@ If you want, I can also generate:
 - a shorter project README
 - a version with screenshots and architecture diagram
 - a README in Hindi/English bilingual format
+
+<img width="1418" height="837" alt="image" src="https://github.com/user-attachments/assets/7bdf7c02-b9a7-4e2f-9d52-f5f4078bdea6" />
+
+<img width="1136" height="759" alt="Screenshot 2026-10-22 191755" src="https://github.com/user-attachments/assets/fc179fb9-1d5b-46cd-92c8-071e4ce752b8" />
+
+<img width="1262" height="866" alt="image" src="https://github.com/user-attachments/assets/9c243e05-4fba-49a9-9877-df495349f94a" />
+<img width="1492" height="872" alt="image" src="https://github.com/user-attachments/assets/fc81e47a-3dcf-4e1a-b053-4eb091a7c88e" />
+
+
+
+
