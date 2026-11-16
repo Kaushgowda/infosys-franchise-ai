@@ -98,13 +98,12 @@ Google Drive: database backup + RAG output (synthetic_kb, bm25_indexes, faiss_in
 - [<img width="1600" height="801" alt="image" src="https://github.com/user-attachments/assets/38a342ea-bbfa-446b-8ba4-4993686db10c" />
  ] Copilot: one SQL question (SQL and row count shown) and one RAG question (citations)
 - [ <img width="1600" height="714" alt="image" src="https://github.com/user-attachments/assets/ac9db6d1-dd3a-4f7c-9bef-6e2d5f015bf5" />
-] 
-## 7. Notes and limits
+  
+  <img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/a17429eb-6b1e-486e-85b4-a94c2c1870c9" />
 
-- Never commit Colab secrets, database files or notebook outputs to GitHub.
-- The GPU is needed for the LLM, translation and embeddings. Without it the app runs but slowly.
-- The Freight variant of the code is included but this notebook launches the Franchise app.
-- The Customer role from the earlier Milestone 3 draft was replaced by **Auditor**, to match Milestone 2.
+
+<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/53738a1a-145e-4f43-bda3-8246efbeaea9" />
+
 
 ---
 
